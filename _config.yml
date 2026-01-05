@@ -1,0 +1,36 @@
+title: Divine Ezennia
+minimal_mistakes_skin: "air" 
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+
+# Site Settings
+locale: "en-US"
+header:
+  overlay_filter: 0.5 # For a professional look
+
+# Professional Identity (Sidebar)
+author:
+  name: "Divine Ezennia"
+  avatar: "/assets/images/bio-photo.jpg" 
+  bio: "Data Professional | Google Certified Analyst | 100-Level Mech Engr. Student"
+  location: "Nigeria"
+  links:
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/divine-ezennia"
+    - label: "Tableau"
+      icon: "fas fa-fw fa-chart-bar" 
+      url: "https://public.tableau.com/app/profile/ezennia.divine/vizzes"
+    - label: "Kaggle"
+      icon: "fab fa-fw fa-kaggle"
+      url: "https://www.kaggle.com/divineezennia"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/Divine-Ezennia"
+
+# Essential Plugins
+plugins:
+  - jekyll-remote-theme
+  - jekyll-include-cache
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
