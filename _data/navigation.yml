@@ -1,0 +1,10 @@
+# main links
+main:
+  - title: "Projects"
+    url: /#featured-projects
+  - title: "About"
+    url: /about/
+  - title: "Resume"
+    url: /resume/
+  - title: "Infrastructure"
+    url: /#remote-ready-infrastructure
