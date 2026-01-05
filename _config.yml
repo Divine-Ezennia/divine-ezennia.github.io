@@ -12,14 +12,16 @@ header:
 author:
   name: "Divine Ezennia"
   avatar: "/assets/images/bio-photo.jpg" 
-  bio: "Data Professional | Google Certified Analyst | 100-Level Mech Engr. Student"
+  bio: |
+    Data Professional | Google Certified Analyst | 100-Level Mech Engr. Student
+
+    **Availability:** Available for Global Remote Work
+
+    **Infrastructure:**  
+    * ⚡ 24/7 Power  
+    * 🌐 High-Speed Fiber Optic  
+    * 🕒 Timezone: GMT/WAT (syncs with CET/EST)
   location: "Nigeria"
-  employer: "Available for Global Remote Work"
-  notes: |
-    **Infrastructure:**
-    * ⚡ 24/7 Power
-    * 🌐 High-Speed Fiber Optic
-    * 🕒 Timezone: GMT/WAT (Syncs with CET/EST)
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
