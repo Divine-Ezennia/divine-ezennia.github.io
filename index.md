@@ -14,5 +14,5 @@ I am a Data Professional combining the rigorous foundation of a **100-level Mech
 
 ### Featured Projects
 
-* **[Cyclistic Bike-Share Analysis]** - A deep dive into 1.9M+ rows of data to identify 21 strategic conversion insights.
+* **[Cyclistic Bike-Share Analysis]** - A deep dive into 1.9M+ rows of data to identify strategic conversion insights.
 * **[Online Retail Customer Analysis]** - Using R to segment purchasing behaviors and drive retail growth.
