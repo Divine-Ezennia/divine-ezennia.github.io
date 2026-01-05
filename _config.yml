@@ -1,11 +1,12 @@
-title: Divine Ezennia
+title: "Divine Ezennia"
 minimal_mistakes_skin: "air" 
+repository: "Divine-Ezennia/divineezennia.github.io"
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 
 # Site Settings
 locale: "en-US"
 header:
-  overlay_filter: 0.5 # For a professional look
+  overlay_filter: 0.5 
 
 # Professional Identity (Sidebar)
 author:
