@@ -38,7 +38,7 @@ I am a **Google Certified Data Analyst** specialized in processing large-scale d
 ---
 
 <a name="remote-ready-infrastructure"></a>
-🛠 Remote-Ready Infrastructure  
+## 🛠 Remote-Ready Infrastructure  
 I operate from a **fully redundant home office** designed for seamless collaboration with global teams:
 * **Power:** 24/7 uptime via Solar + Inverter backup.
 * **Connectivity:** High-speed Fiber Optic internet.
