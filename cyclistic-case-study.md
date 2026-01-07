@@ -42,7 +42,7 @@ My analysis uncovered **21 distinct strategic insights**, categorized into three
 ## 📊 Visualized Demand Patterns  
 <div style="text-align: center;">
   <img src="/assets/images/cyclistic-demand-chart.jpg" alt="Cyclistic Demand Analysis: Member vs. Casual Riders" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-  <p><em>'*Figure 1: Comparative analysis of ridership volume, highlighting the strategic 40% surge in casual riders during weekend intervals.*' phenomenon.</em></p>
+  <p><em>Figure 1: Comparative analysis of ridership volume, highlighting the strategic 40% surge in casual riders during weekend intervals.</em></p>
 </div>
 > *This visualization highlights the 'Weekend Cross-over'—the strategic window where casual ridership volume provides the highest conversion opportunity.*
 
@@ -55,8 +55,11 @@ Based on the 21-point analysis, I proposed three long-term actions:
 ---
 
 ### 📂 Technical Verification
-| Artifact | Access Link |
+
+| Resource | Access Link |
 | :--- | :--- |
-| **GitHub Repository** | [View Technical SQL & Code](https://github.com/Divine-Ezennia/Cyclistic-Bike-Share-Analysis){: .btn .btn--primary} |
-| **Kaggle Notebook** | [View Interactive Analysis](https://www.kaggle.com/code/divineezennia/cyclistic-case-study-strategic-data-analysis){: .btn .btn--info} |
-| **Tableau Dashboard** | [View Executive Visuals](https://public.tableau.com/app/profile/ezennia.divine/vizzes){: .btn .btn--success} |
+| **GitHub Repository** | [View Technical SQL & Code](https://github.com/Divine-Ezennia/Cyclistic-Bike-Share-Analysis){: .btn .btn--primary .btn--small} |
+| **Kaggle Notebook** | [View Interactive Analysis](https://www.kaggle.com/code/divineezennia/cyclistic-case-study-strategic-data-analysis){: .btn .btn--info .btn--small} |
+| **Tableau Dashboard** | [View Executive Visuals](https://public.tableau.com/app/profile/ezennia.divine/vizzes){: .btn .btn--success .btn--small} |
+
+
