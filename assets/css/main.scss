@@ -1,0 +1,23 @@
+---
+
+---
+
+@import "minimal-mistakes";
+
+// --- CUSTOM PROFESSIONAL OVERRIDES ---
+
+// 1. Professional Off-White Background
+body {
+  background-color: #f2f3f5 !important; 
+}
+
+// 2. Ensuring the main content area matches
+#main {
+  background-color: #f2f3f5 !important;
+}
+
+// 3. Adding a subtle border to images to make them pop
+.full, .wide, .align-center {
+  border: 1px solid #e1e4e8;
+  border-radius: 4px;
+}
