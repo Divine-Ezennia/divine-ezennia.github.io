@@ -4,9 +4,12 @@ author_profile: true
 title: "Data Analytics Portfolio"
 header:
   overlay_color: "#000"
-  overlay_filter: "0.5"
+  overlay_filter: "0.3"
   overlay_image: /assets/images/header-main.jpg
-  caption: "Data-Driven Solutions for Global Business"
+  actions:
+    - label: "Explore Projects"
+      url: "/#featured-projects"
+  caption: "Data-Driven Solutions for Global Businesses"
 excerpt: "Mechanical Engineering student bridging the gap between physical systems and digital insights."
 ---
 
@@ -33,7 +36,7 @@ I am a **Google Certified Data Analyst** specialized in processing large-scale d
 **The Problem:** Identifying high-value customers in a dataset of **500k+ transactions**.  
 **The Result:** I performed RFM (Recency, Frequency, Monetary) analysis, segmenting customers into 5 distinct personas for targeted marketing.
 
-[View Case Study](/retail-analysis/){: .btn .btn--info}
+[View the Full Executive Report](/retail-analysis/){: .btn .btn--info}
 
 ---
 
