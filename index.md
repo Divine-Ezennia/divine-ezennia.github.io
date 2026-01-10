@@ -30,13 +30,14 @@ I am a **Google Certified Data Analyst** specialized in processing large-scale d
 
 [View the Full Executive Report](/cyclistic-case-study/){: .btn .btn--info} [View Technical Code](https://github.com/Divine-Ezennia/Cyclistic-Bike-Share-Analysis){: .btn .btn--outline--primary}
 
----
+---  
 
-### 🛒 Online Retail: Customer Segmentation
-**The Problem:** Identifying high-value customers in a dataset of **500k+ transactions**.  
-**The Result:** I performed RFM (Recency, Frequency, Monetary) analysis, segmenting customers into 5 distinct personas for targeted marketing.
+### 🛒 Online Retail: Customer Behavioral Intelligence 
+**Status:** `✅ Analysis Complete | Report Deployment in Progress`  
+**The Objective:** Decoding customer loyalty and unit price elasticity within a global dataframe of **541,000+ transactions.**  
+**The Impact:** Engineered a multi-dimensional **RFM (Recency, Frequency, Monetary) model** to segment customers into actionable personas (Champions, At-Risk, Loyal). This analysis identifies high-value revenue drivers and provides a roadmap for targeted retention.
 
-[View the Full Executive Report](/retail-analysis/){: .btn .btn--info}
+[Explore Methodology on GitHub](https://github.com/Divine-Ezennia/Online-Retail-Analysis){: .btn .btn--primary} [Request Full HTML Report](mailto:ezennia.divine.bio@gmail.com){: .btn .btn--outline--info}  
 
 ---
 
